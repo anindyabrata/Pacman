@@ -1,0 +1,11 @@
+10
+Anindya 10230
+Anindya 10230
+ 10230
+ 10230
+ 10230
+ 10230
+Player1 10000
+Player2 1000
+Player3 500
+Player4 100
